@@ -51,7 +51,7 @@ export const projectsData = [
   },
 
   {
-    title: "Word Analytics",
+    title: "NuOrder",
     description:
       "I worked as a full-stack developer on this project for 3 months. It has full business cycle and is two role based application i.e vendor and buyer.",
     tags: ["React", "CSS", "Node.js", "MongoDB"],
@@ -69,7 +69,6 @@ export const skillsData = [
   "Node.js",
   "Git",
   "Tailwind",
-  "Prisma",
   "MongoDB",
   "Express",
   "PostgreSQL",
