@@ -33,10 +33,7 @@ export default function About() {
         technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer.
-      </p>
-
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
+        <span className="italic"> When I'm not coding</span>, I enjoy playing
         video games, watching movies. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about <span className="font-medium">Tailwind and Next.js</span>
